@@ -1,5 +1,14 @@
+This is example how to link xbee digi library to console port
+==============================================================
+
+Context:
+main.c -- main program
+other -- Digi XBee ANSI C library
+
+
+
 Digi XBee ANSI C Library
-========================
+_______________________
 
 The project is a collection of portable ANSI C code for communicating with
 Digi International's [XBee] wireless radio modules in API mode.  This source
